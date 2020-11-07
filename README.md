@@ -5,11 +5,9 @@
 - I like coding, machine learning, and content writing as well 📚 [Medium](https://medium.com/@waqar_arain/)
 - ⚡️ I like to play different CTF challenges in my free time, here is my `tryhackme` scoreboard banner
 </br>
-<html>
-	<head>
-		<script src="https://tryhackme.com/badge/18629"></script>
-	</head>
-</html>
+	<script src="https://tryhackme.com/badge/18629">
+		
+	</script>
 </br>
 
 ### Languages and Tools:
