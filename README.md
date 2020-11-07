@@ -1,7 +1,7 @@
 ### Hi there, I'm Waqar 👋
 
 ## I'm a Software Engineering student, aspiring to be a Cyber Security Professional!
-- Currently learning Penetration Testing 🔥
+- Learning Penetration Testing 🔥
 - I like coding, computer networking, machine learning, and content writing 📚 [Medium](https://medium.com/@waqar_arain/)
 - I like to play different CTF challenges in my free time ⚡️
 
