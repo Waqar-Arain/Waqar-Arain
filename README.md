@@ -1,11 +1,15 @@
 ### Hi there, I'm Waqar 👋
 
-## I'm a software engineering student, aspiring to be a Cyber Security Professional!
+## I'm a Software Engineering student, aspiring to be a Cyber Security Professional!
 - Currently learning Penetration Testing 🔥
 - I like coding, machine learning, and content writing as well 📚 [Medium](https://medium.com/@waqar_arain/)
 - ⚡️ I like to play different CTF challenges in my free time, here is my `tryhackme` scoreboard banner
 </br>
-<script src="https://tryhackme.com/badge/18629"></script>
+<html>
+	<head>
+		<script src="https://tryhackme.com/badge/18629"></script>
+	</head>
+</html>
 </br>
 
 ### Languages and Tools:
@@ -25,8 +29,6 @@
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-
-<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
