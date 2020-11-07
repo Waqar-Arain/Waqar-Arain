@@ -2,13 +2,8 @@
 
 ## I'm a Software Engineering student, aspiring to be a Cyber Security Professional!
 - Currently learning Penetration Testing 🔥
-- I like coding, machine learning, and content writing as well 📚 [Medium](https://medium.com/@waqar_arain/)
-- ⚡️ I like to play different CTF challenges in my free time, here is my `tryhackme` scoreboard banner
-</br>
-	<script src="https://tryhackme.com/badge/18629">
-		
-	</script>
-</br>
+- I like coding, computer networking, machine learning, and content writing 📚 [Medium](https://medium.com/@waqar_arain/)
+- I like to play different CTF challenges in my free time ⚡️
 
 ### Languages and Tools:
 
