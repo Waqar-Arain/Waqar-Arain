@@ -1,8 +1,8 @@
-### Hi there, I'm Waqar 👋
+### Hi there, I'm [Waqar](https://waqar-arain.netlify.app/) 👋
 
 ## I'm a Software Engineering student, aspiring to be a Cyber Security Professional!
 - Learning Penetration Testing 🔥
-- I like coding, computer networking, machine learning, and content writing 📚 [Medium](https://medium.com/@waqar_arain/)
+- I like coding, computer networking, machine learning, and content writing 📚 [My Website](https://waqar-arain.netlify.app/)
 - I like to play different CTF challenges in my free time ⚡️
 
 ### Languages and Tools:
