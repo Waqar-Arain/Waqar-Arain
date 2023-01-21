@@ -1,7 +1,7 @@
 ### Hi there, I'm Waqar 👋
 
-## I'm a Software Engineer, and Cyber Security Professional.
-- Love Penetration Testing 🔥
+## I'm an Information Security Professional and Software Engineer.
+- Love Red Teaming and Penetration Testing 🔥
 - I like coding, computer networking, machine learning, and content writing 📚 [waqar-arain.netlify.app](https://waqar-arain.netlify.app/posts/)
 - I like to play CTF ⚡️
 
